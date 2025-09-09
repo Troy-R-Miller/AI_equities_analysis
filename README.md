@@ -10,9 +10,7 @@ Their growth can be attributed to a substantial increase in revenue from 2024, s
 
 Given the massive market cap, NVIDIA continues to see growth and shows no signs of slowing down. In 2024, the corporation issued a 10-1 stock split, while once trading in excess of $1000, the stock is now trading at $164 as of 09/09/2025.
 
-What can we learn from this data? AI is still very new, and is still considered an emerging market. Opportunity is plentiful and Market participants and observers have an opportunity to engage with this emerging sector while it is still in its early stages. 
-
-The key takeaway from this project is that AI remains a rapidly emerging market with abundant opportunity. By leveraging data tools and AI-assisted research, we can gain insights into the companies leading this transformation and better understand how innovation is reshaping the market landscape.
+The key takeaway from this project is that AI remains a rapidly emerging market with abundant opportunity. However, I don't beleive the growth can be sustained given the explosive rise as of late. Market goers must practice due-diligence before entering and consider all risks associated with rapid growth. In addition, By leveraging data tools and AI-assisted research, we can gain insights into the companies leading this transformation and better understand how innovation is reshaping the market landscape.
 
 Features -
 
