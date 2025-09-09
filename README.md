@@ -2,7 +2,7 @@
 
 **The data collected and equities showcased in this project are intended to be educational. The following is strongly opinionated is not to be used as investment advice.**
 
-The rise of AI has been a hot topic of conversation in every industry. The use of AI has increased productivity, streamlining processing and allowing professionals to optimize their workflows. This project aims to showcase the parabolic growth of AI equities in the stock market and highlight a handful of top performers. 
+AI is on the rise and has been a hot topic of conversation in every industry. The use of AI has increased productivity, streamlined processing and allows professionals to optimize their workflows. This project aims to showcase the parabolic growth of AI equities in the stock market and highlight a handful of top performers. 
 
 To celebrate the rise of AI and to showcase its abilities, I utilized AI to assist with data collection for this project. By using carefully curated prompts, AI was able to identify 15 top performing equities in the market, which I have narrowed down to the Top 5 as it relates to market cap. Per the chart above, Palantir Technologies has seen incredible growth from 52 week lows. 
 
